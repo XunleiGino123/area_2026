@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+pandas
+requests
+ipython
+ipykernel
+jupyter
+notebook
