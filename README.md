@@ -138,3 +138,10 @@ Output is a CSV with student answers, expert grades, each agent’s grade and ex
 ## Citation
 
 If you use this code or framework, please cite the associated AERA 2026 paper in `paper/`.
+
+Copyright © Michigan State University. All rights reserved.
+This software is made available for non-commercial research, educational, and academic purposes. Users may download, use, and modify the software for non-commercial purposes provided that this copyright notice is retained.
+
+Commercial use, redistribution for commercial purposes, sublicensing, or incorporation into commercial products requires prior written permission from Michigan State University.
+
+For licensing inquiries, please contact MSU Technologies at ipdocs@msu.edu. Reference TEC22026-0154.
